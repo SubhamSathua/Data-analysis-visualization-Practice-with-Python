@@ -4,7 +4,7 @@ size = len(str(n))
 # print(size)
 sum = 0
 v = str(n)
-
+ 
 i = 0
 while i < size:
     # print(n)
