@@ -16,3 +16,14 @@ result = a ^ b
 print(sorted(result))
 
 
+a = {12, 1,1,1,1,1,1,1,1}
+print(a)
+
+a.add(1000000)
+# a.update([2], 111111)
+a.remove(1)
+a.pop()
+
+print(a)
+
+
