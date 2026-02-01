@@ -9,6 +9,5 @@ sns.boxplot(
     y="Score"
 )
 
-plt.title("Distribution of NIRF Scores")
-plt.ylabel("Score")
+plt.title("Box Plot of NIRF")
 plt.show()
